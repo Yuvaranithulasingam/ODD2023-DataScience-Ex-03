@@ -13,7 +13,7 @@ To read the given data and perform the univariate analysis with different types 
 #### STEP 4:
    Describe the dataframe.
 #### STEP 5: 
-   Do plots like boxplots,countplot,distribution plot,histogram plot
+   Do plots like boxplots,countplot,distribution plot,histogram plot.
 
 ## PROGRAM:
 
